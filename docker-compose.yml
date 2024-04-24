@@ -47,11 +47,23 @@ services:
     command: webserver
     ports:
       - "8080:8080"
+    depends_on:
+      - postgres
+      - redis
+    restart: "always"
 
   airflow-scheduler:
     <<: *airflow-common
     command: scheduler
+    depends_on:
+      - postgres
+      - redis
+    restart: "always"
 
   airflow-worker:
     <<: *airflow-common
     command: celery worker
+    depends_on:
+      - postgres
+      - redis
+    restart: "always"

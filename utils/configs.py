@@ -1,12 +1,10 @@
-from dotenv import load_dotenv
 import configparser
 import os
 from pathlib import Path
 
-env_path = Path.cwd().resolve() / ".env"
-config_path = Path.cwd().resolve() / "config" / "config.conf"
 
-load_dotenv(env_path)
+config_path = "/opt/airflow/config/config.conf"
+
 parser = configparser.ConfigParser()
 parser.read(config_path)
 
