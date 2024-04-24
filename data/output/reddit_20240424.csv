@@ -1,0 +1,7 @@
+id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+1cb2ym3,Bombed a technical,168,80,bjogc42069,2024-04-23 12:09:27,https://www.reddit.com/r/dataengineering/comments/1cb2ym3/bombed_a_technical/,False,False,False,False
+1cb573s,"Trying to understand normalization, would you please help me in this. Does it satisfy 1NF, 2NF, 3NF and why?
+",47,31,Radioheader377,2024-04-23 13:52:18,https://i.redd.it/cnonvng5i8wc1.png,False,False,False,False
+1cb7mqe,Lakehouse doesn't seem to be advantageous for our Data Warehouse. Am I missing something(s)?,39,40,cdigioia,2024-04-23 15:34:59,https://www.reddit.com/r/dataengineering/comments/1cb7mqe/lakehouse_doesnt_seem_to_be_advantageous_for_our/,False,False,False,False
+1caz8ez,Loading to Bronze in a Medallion Architecture,17,18,JDL_FCB5,2024-04-23 08:15:22,https://www.reddit.com/r/dataengineering/comments/1caz8ez/loading_to_bronze_in_a_medallion_architecture/,False,False,False,False
+1cb8yh8,What Signals Do you Look for to determine whether a Pipeline should be Streaming over Batch?,12,18,AMDataLake,2024-04-23 16:27:12,https://www.reddit.com/r/dataengineering/comments/1cb8yh8/what_signals_do_you_look_for_to_determine_whether/,False,False,False,False
