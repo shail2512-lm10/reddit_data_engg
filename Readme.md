@@ -1,5 +1,8 @@
 ## Data Engineering Pipeline - Reddit API
 
+
+![reddit](https://github.com/user-attachments/assets/b05446c1-7435-499a-9c37-e197dfb41d30)
+
 The pipeline consists of 
 1. Reddit pipeline: 
     
